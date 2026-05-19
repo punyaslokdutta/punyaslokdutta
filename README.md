@@ -10,4 +10,4 @@ runs on neuro + coffee · 40hr sprints · incurable optimist.
 
 Currently 🎧 :  ambient argentino · shoegaze · dreampop · avicii · neo-psych
 
-[book a demo →](https://www.settlx.xyz)
+[Talk is cheap →](https://www.settlx.xyz)
