@@ -1,5 +1,9 @@
 ### hi 👋
 
+[![Punyaslok Dutta — Product Engineer & Agent Operator](./assets/portfolio-preview.jpg)](https://punyaslokdutta.github.io/)
+
+**[Explore my interactive portfolio →](https://punyaslokdutta.github.io/)**
+
 builder first, founder second.\
 deep-tech · web3 · AI.
 
